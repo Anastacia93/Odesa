@@ -63,18 +63,17 @@ body {
 }
 .video-bg__content a {
  text-decoration: none;
-     display: inline-block;
-     margin-top: 25px;
-     line-height: 1.5;
+ display: inline-block;
+ margin-top: 25px;
+ line-height: 1.5;
  color: orangered;
  padding: 15px 20px;
  background-color: rgb(223, 207, 207, 0.6);
  border-radius: 5px;
  font-size: 20px;
-     font-weight: 700;
-     letter-spacing: 3px;
-     text-transform: uppercase;
-
+ font-weight: 600;
+ letter-spacing: 3px;
+ text-transform: uppercase;
 }
 .effects {
  position: absolute;
